@@ -1,0 +1,93 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  padding: 7px;
+  background-color: #dfe8e6;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #564447
+}
+
+section {
+  clear: both;
+}
+
+h1 {
+  font-size: 40px;
+  color: #4e6163;
+  font-family: "Sigmar One";
+  text-align: center;
+}
+
+h2 {
+  font-size: 34px;
+  color: #4e6163;
+  font-family: "Sigmar One";
+}
+
+h3 {
+  font-size: 28px;
+  color: #4e6163;
+  font-family: "Patua One";
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.4;
+  color: #4e6163;
+  font-family: "Patua One";
+}
+
+ol {
+  font-size: 22px;
+  line-height: 1.4;
+  color: #4e6163;
+  font-family: "Patua One";
+}
+
+ul {
+  font-size: 22px;
+  line-height: 1.4;
+  color: #4e6163;
+  font-family: "Patua One";
+}
+
+img {
+  max-width: 100%;
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+a:link {
+    color: #564447;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #127d88;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #564447;
+}
